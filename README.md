@@ -37,7 +37,7 @@ I am a 16 year old programmer, entrepreneur, and developer. I know 20 programmin
  - 🐍  python
  - 💎  ruby
 
-[![William's github stats](https://github-readme-stats.vercel.app/api?username=william-mcgonagle&count_private=true)](https://github.com/william-mcgonagle/)
+[![William's github stats](https://github-readme-stats.vercel.app/api?username=william-mcgonagle&count_private=true&show_icons=true)](https://github.com/william-mcgonagle/)
 
 # projects 🚧
 
