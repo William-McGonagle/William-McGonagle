@@ -17,25 +17,26 @@ I am a 16 year old programmer, entrepreneur, and developer. I know 20 programmin
 
 
 ## 20 languages 🖥️
- - 🐢  shell
- - 🌐  html
- - 🐈  css
- - 🐯  sass
- - 🐅  vue
- - 😃  javascript
- - 👑  nodejs
- - 🔍  jquery
- - 📄  PHP
- - ⚙️  assembly
- - 👨‍🔬  c
- - 🔬  c++
- - 💡  objective-c
- - 😎  c#
- - ☕  java
- - 🪐  lua
- - ⏩  swift
- - 🐍  python
- - 💎  ruby
+ - 🐢 - shell
+ - 🌐 - html
+ - 🐈 - css
+ - 🐯 - sass
+ - 🐅 - vue
+ - 😃 - javascript
+ - 👑 - nodejs
+ - 🔍 - jquery
+ - 📄 - PHP
+ - ⚙️ - assembly
+ - 👨‍🔬 - c
+ - 🔬 - c++
+ - 💡 - objective-c
+ - 😎 - c#
+ - ☕ - java
+ - 🪐 - lua
+ - ⏩ - swift
+ - 🐍 - python
+ - 💎 - ruby
+ - 🔬 - matlab
 
 ![William's github stats](https://github-readme-stats.vercel.app/api?username=william-mcgonagle&count_private=true&include_all_commits=true&show_icons=true)
 
