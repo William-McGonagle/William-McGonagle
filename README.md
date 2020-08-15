@@ -9,8 +9,9 @@
 [<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" />](https://william-mcgonagle.github.io/)
 [<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/William-McGonagle)
 [<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/william.mcgonagle/)
-[<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/WilliamMcGona11)
+[<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/WilliamMcGona11?ref_src=twsrc%5Etfw)
 [<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />](https://www.npmjs.com/~william_mcgonagle)
+
 
 ## languages and tools 🛠️
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></img>
