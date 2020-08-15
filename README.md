@@ -4,6 +4,7 @@
 - 📚  Teach Others the Art of Programming
 - 🤖  Make the World a Better Place with Code.
 
+
 ## links 🔗
 [<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />](https://brew-society.com/user/?id=2)
 [<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" />](https://william-mcgonagle.github.io/)
@@ -14,6 +15,10 @@
 
 
 ## languages and tools 🛠️
+*These are some of the programming languages and tools that I know... I have been programming for the majority of my life, so have accumulated a lot of knowledge on these different programs, protocols, and programming languages*
+
+*Also, this list does not include HTTP, SMTP, FTP, SSH, TCP, or UDP because I could not find icons for them. This also goes for some lesser known apis and languages that I know*
+
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></img>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></img>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></img>
