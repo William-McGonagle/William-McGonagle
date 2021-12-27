@@ -1,18 +1,7 @@
-## goals 🎯
-- 🍺  Create the Brew Society
-- 👷  Build Open Source Projects
-- 📚  Teach Others the Art of Programming
-- 🤖  Make the World a Better Place with Code.
+![Spread](https://github.com/fairfield-programming/.github/raw/main/spread.png?raw=true)
 
-
-## links 🔗
-[<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />](https://brew-society.com/user/?id=2)
-[<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" />](https://william-mcgonagle.github.io/)
-[<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/William-McGonagle)
-[<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/william.mcgonagle/)
-[<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/WilliamMcGona11?ref_src=twsrc%5Etfw)
-[<img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />](https://www.npmjs.com/~william_mcgonagle)
-
+-----
+-----
 
 ## languages and tools 🛠️
 *These are some of the programming languages and tools that I know... I have been programming for the majority of my life, so have accumulated a lot of knowledge on these different programs, protocols, and programming languages*
@@ -49,11 +38,5 @@
 <img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tor.svg" />
 <img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
 <img height="32" width="32" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atom.svg" />
-
-
-## stats 💯
-![William's github stats](https://github-readme-stats.vercel.app/api?username=william-mcgonagle&count_private=true&include_all_commits=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-mcgonagle&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=William-McGonagle)
