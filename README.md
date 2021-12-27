@@ -1,6 +1,7 @@
-![Spread](https://github.com/fairfield-programming/.github/raw/main/spread.png?raw=true)
+[![Spread](https://github.com/fairfield-programming/.github/raw/main/spread.png?raw=true)](https://fairfieldprogramming.org/)
 
 -----
+Make sure to follow me and the [Fairfield Programming Association](https://github.com/fairfield-programming).
 -----
 
 ## languages and tools 🛠️
